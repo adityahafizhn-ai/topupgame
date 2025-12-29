@@ -79,3 +79,11 @@ Menampilkan daftar transaksi yang pernah dilakukan oleh pengguna, sehingga pengg
 ---
 
 URL Aplikasi : http://localhost/celleboytopup/
+
+---
+
+## Author
+
+**Aditya Hafizh Nugraha**  
+Teknik Informatika  
+Universitas Pamulang  
