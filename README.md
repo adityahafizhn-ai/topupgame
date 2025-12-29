@@ -21,13 +21,13 @@ Aplikasi ini dikembangkan menggunakan PHP Native dan MySQL dengan tampilan antar
 
 ### Login
 <img width="1895" height="903" alt="image" src="https://github.com/user-attachments/assets/4b6c8f62-6f9b-4231-8c7d-8cdd6735de67" />
-Halaman registrasi digunakan untuk pembuatan akun baru. Pengguna cukup mengisi data dasar seperti username, email, dan password untuk dapat menggunakan seluruh fitur sistem.
+Halaman registrasi digunakan untuk pembuatan akun baru. Pengguna cukup mengisi data dasar seperti email, dan password untuk dapat menggunakan seluruh fitur sistem.
 
 ---
 
 ### Dashboard
 <img width="1887" height="892" alt="image" src="https://github.com/user-attachments/assets/20d7ec75-66c7-42c5-adb8-56988bc3bcc9" />
-Halaman dashboard menjadi halaman utama setelah pengguna login. Pada halaman ini pengguna dapat melihat ringkasan akun, memilih game yang tersedia, serta mengakses menu lainnya seperti transaksi dan profil.
+Halaman dashboard menjadi halaman utama setelah pengguna login. Pada halaman ini pengguna dapat melihat ringkasan akun, memilih game yang tersedia, serta mengakses menu lainnya seperti riwayat transaksi.
 
 ---
 
@@ -40,8 +40,9 @@ Pada halaman ini pengguna dapat memilih berbagai game online populer yang tersed
 ### Halaman Topup
 <img width="1888" height="896" alt="image" src="https://github.com/user-attachments/assets/6c0e491d-4afb-40fc-86b0-53bcd28c2e86" />
 Pengguna dapat memasukkan:
+- Nickname
 - ID Player
-- Pilih Game
+- Server
 - Pilih Nominal Top Up
 - Pilih Metode Pembayaran
 Sistem akan memproses dan menyimpan transaksi ke database.
@@ -61,7 +62,6 @@ Menampilkan daftar transaksi yang pernah dilakukan oleh pengguna, sehingga pengg
 - Memilih game
 - Melakukan top up
 - Melihat riwayat transaksi
-- Mengelola data akun pengguna
 
 ---
 
